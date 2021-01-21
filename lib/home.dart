@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: new Text(
-          'My Home',
+          'My Home page',
           textAlign: TextAlign.center,
           style: TextStyle(color: Colors.white, fontSize: 22.0),
         ),
